@@ -32,6 +32,7 @@ a template that you want to share? Add it here!
 - [devcontainers/images](https://github.com/devcontainers/images)
 - [rocker-org/devcontainer-features](https://github.com/rocker-org/devcontainer-features)
 - [devcontainers-contrib/features](https://github.com/devcontainers-contrib/features)
+- [devcontainers-extra/features](https://github.com/devcontainers-extra/features)
 - [dev-wasm/dev-wasm-feature](https://github.com/dev-wasm/dev-wasm-feature)
 
 </details>
